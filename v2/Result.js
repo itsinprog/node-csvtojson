@@ -147,4 +147,3 @@ function pushDownstream(conv, res) {
         conv.push(res);
     }
 }
-//# sourceMappingURL=Result.js.map

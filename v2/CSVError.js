@@ -39,4 +39,3 @@ var CSVError = /** @class */ (function (_super) {
     return CSVError;
 }(Error));
 exports.default = CSVError;
-//# sourceMappingURL=CSVError.js.map

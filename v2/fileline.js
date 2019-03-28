@@ -19,4 +19,3 @@ function stringToLines(data, param) {
 }
 exports.stringToLines = stringToLines;
 ;
-//# sourceMappingURL=fileline.js.map

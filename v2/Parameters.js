@@ -37,4 +37,3 @@ function mergeParams(params) {
     return defaultParam;
 }
 exports.mergeParams = mergeParams;
-//# sourceMappingURL=Parameters.js.map

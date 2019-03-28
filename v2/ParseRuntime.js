@@ -29,4 +29,3 @@ function initParseRuntime(converter) {
     return rtn;
 }
 exports.initParseRuntime = initParseRuntime;
-//# sourceMappingURL=ParseRuntime.js.map

@@ -189,4 +189,3 @@ var Converter = /** @class */ (function (_super) {
     return Converter;
 }(stream_1.Transform));
 exports.Converter = Converter;
-//# sourceMappingURL=Converter.js.map

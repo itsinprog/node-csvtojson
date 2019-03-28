@@ -197,4 +197,3 @@ function jsonType(item) {
         return item;
     }
 }
-//# sourceMappingURL=lineToJson.js.map

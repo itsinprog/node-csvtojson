@@ -307,4 +307,3 @@ function processLineHook(lines, runtime, offset, cb) {
         }
     }
 }
-//# sourceMappingURL=ProcessorLocal.js.map

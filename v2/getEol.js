@@ -24,4 +24,3 @@ function default_1(data, param) {
 }
 exports.default = default_1;
 ;
-//# sourceMappingURL=getEol.js.map

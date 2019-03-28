@@ -36,4 +36,3 @@ exports.trimRight = String.prototype.trimRight ? function trimRightNative(str) {
 } : function trimRightRegExp(str) {
     return str.replace(/\s+$/, "");
 };
-//# sourceMappingURL=util.js.map
